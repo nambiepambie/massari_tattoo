@@ -1,12 +1,12 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+title: Lia Massari
+email: "nambiepambietattoo@gmail.com"
+description: "Art - Tattoos - Band Art"
+url: "https://nambiepambie.github.io"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
-instagram_username: ""
+instagram_username: "nambiepambie"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   nambiepambie
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: art tattoo portfolio
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -33,9 +33,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://nambiepambie.github.io/gallery/"  
+  - ABOUT: "https://nambiepambie.github.ioS/about/"
 
 # All translation keys
 translations:
